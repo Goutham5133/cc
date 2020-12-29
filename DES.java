@@ -72,3 +72,4 @@ class DES {
 	public static void main(String args[]) {
 		DES des = new DES();
 	}}
+
